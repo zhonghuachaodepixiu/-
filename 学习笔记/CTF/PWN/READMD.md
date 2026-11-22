@@ -7,3 +7,5 @@
 5. [string](../PWN/格式化字符串/text.md)
 6. [ret2csu](../PWN/ret2csu/text.md)
 7. [ret2dlresolve](../PWN/ret2dlresolve/text.md)
+8. [srop](../PWN/srop/text.md)
+9. [栈迁移](../PWN/栈迁移/text.md)
